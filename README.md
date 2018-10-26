@@ -1,6 +1,1 @@
-"# ClinicalManagementSystem_IN_C" 
-"# ClinicalManagementSystem_IN_C" 
-"# ClinicalManagementSystem_IN_C" 
-"# C-Project" 
-"# C-Project" 
-"# C-Project" 
+ Registeration System for Doctors , build in by C Language
